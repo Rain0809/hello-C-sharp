@@ -1,2 +1,2 @@
-# hello-C-
+# hello-C#
 Luyện tập C#
